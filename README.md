@@ -17,7 +17,7 @@ Please thumbs up any questions you like, and thumbs down any questions you don't
 
 ![use thumbs up](https://github.com/greg-gorlen-andela/ai-quiz-questions/assets/154474514/2a299fef-e4f3-4df9-9d48-7338c30dbaaa)
 
-Feel free to add a comment explaining why you voted as you did.
+Feel free to add a comment explaining why you voted as you did or suggest improvements.
 
 ---
 
